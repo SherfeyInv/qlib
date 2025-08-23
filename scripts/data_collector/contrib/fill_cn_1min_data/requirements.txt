@@ -3,3 +3,7 @@ pandas
 loguru
 tqdm
 pyqlib
+pillow>=10.2.0 # not directly required, pinned by Snyk to avoid a vulnerability
+mlflow>=3.1.1 # not directly required, pinned by Snyk to avoid a vulnerability
+protobuf>=4.25.8 # not directly required, pinned by Snyk to avoid a vulnerability
+gunicorn>=23.0.0 # not directly required, pinned by Snyk to avoid a vulnerability
