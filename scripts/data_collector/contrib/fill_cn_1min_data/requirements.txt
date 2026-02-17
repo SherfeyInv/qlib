@@ -3,3 +3,4 @@ pandas
 loguru
 tqdm
 pyqlib
+mlflow>=3.5.0rc0 # not directly required, pinned by Snyk to avoid a vulnerability
