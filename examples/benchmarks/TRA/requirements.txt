@@ -3,3 +3,4 @@ numpy==1.21.0
 scikit_learn==0.23.2
 torch==1.7.0
 seaborn
+pillow>=12.2.0 # not directly required, pinned by Snyk to avoid a vulnerability
