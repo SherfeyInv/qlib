@@ -6,3 +6,5 @@ scikit-learn
 pandas
 tianshou
 sphinx_rtd_theme
+torch>=2.10.0 # not directly required, pinned by Snyk to avoid a vulnerability
+wheel>=0.46.2 # not directly required, pinned by Snyk to avoid a vulnerability
