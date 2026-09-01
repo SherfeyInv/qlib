@@ -3,3 +3,4 @@ numpy==1.21.0
 lightgbm==3.1.0
 optuna==2.7.0
 optuna-dashboard==0.4.1
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
