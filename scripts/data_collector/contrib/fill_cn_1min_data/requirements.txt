@@ -3,3 +3,5 @@ pandas
 loguru
 tqdm
 pyqlib
+filelock>=3.20.3 # not directly required, pinned by Snyk to avoid a vulnerability
+mlflow>=3.5.0rc0 # not directly required, pinned by Snyk to avoid a vulnerability
